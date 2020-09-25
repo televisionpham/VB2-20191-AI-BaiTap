@@ -3,3 +3,10 @@
 ################################################################################
 
 /Code/VB2_AI/.vs/VB2_AI/v16
+/Code/VB2_AI/packages
+/Code/VB2_AI/VB2_AI.Demo/bin/Debug
+/Code/VB2_AI/VB2_AI.Demo/obj/Debug
+/Code/VB2_AI/VB2_AI.Lib/bin/Debug
+/Code/VB2_AI/VB2_AI.Lib/obj/Debug
+/Code/VB2_AI/VB2_AI.UnitTests/bin/Debug
+/Code/VB2_AI/VB2_AI.UnitTests/obj/Debug
