@@ -98,9 +98,9 @@
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(19, 99);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(115, 20);
+            this.label3.Size = new System.Drawing.Size(99, 20);
             this.label3.TabIndex = 5;
-            this.label3.Text = "Trung gian (M):";
+            this.label3.Text = "Trung từ (M):";
             // 
             // txtM
             // 
@@ -301,7 +301,7 @@
             this.tabPage1.Location = new System.Drawing.Point(4, 29);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(631, 269);
+            this.tabPage1.Size = new System.Drawing.Size(631, 371);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Tam đoạn luận hợp lệ";
             this.tabPage1.UseVisualStyleBackColor = true;
